@@ -1,0 +1,8 @@
+data/*.tif
+data/overture_buildings.geojson
+data/buildings_aoi.geojson
+data/roads_all.geojson
+OWM_cache/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
