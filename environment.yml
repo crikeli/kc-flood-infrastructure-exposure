@@ -1,0 +1,26 @@
+name: kc-flood-infrastructure-exposure
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - pandas
+  - geopandas
+  - numpy
+  - shapely
+  - matplotlib
+  - requests
+  - pyarrow
+  - rasterio
+  - rioxarray
+  - xarray
+  - pystac-client
+  - planetary-computer
+  - rio-cogeo
+  - pip
+  - pip:
+      - rio-tiler
+      - geoai-py
+      - omniwatermask
+      - torchange
+      - albumentations
