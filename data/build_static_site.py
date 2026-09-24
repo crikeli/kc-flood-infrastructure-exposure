@@ -275,7 +275,7 @@ def main() -> None:
       <li><a href="https://gis-kingcounty.opendata.arcgis.com/" target="_blank" rel="noopener">King County GIS Open Data</a> - rivers, roads, levee inventory</li>
       <li><a href="https://overturemaps.org/" target="_blank" rel="noopener">Overture Maps</a> - building footprints</li>
       <li><a href="https://github.com/opengeos/geoai" target="_blank" rel="noopener">geoai</a> - raster-to-vector segmentation</li>
-      <li><a href="../notebooks/flood_infrastructure_exposure.ipynb" target="_blank" rel="noopener">Full analysis notebook</a> on GitHub</li>
+      <li><a href="https://github.com/crikeli/kc-flood-infrastructure-exposure/blob/main/notebooks/flood_infrastructure_exposure.ipynb" target="_blank" rel="noopener">Full analysis notebook</a> on GitHub</li>
       <li><a href="https://github.com/crikeli/kc-flood-infrastructure-exposure" target="_blank" rel="noopener">Source code on GitHub</a></li>
     </ul>
     """
